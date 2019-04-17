@@ -6,15 +6,15 @@
 
 # Talk application
 We invite applicants for the following sessions to write an application in the
-form of a GitHub issue in this repository. The application deadline is May 19th.  
+form of a *GitHub issue* in this repository. The application deadline is _May 19th_.
 We will make a selection based on quality, relevance, community interest and
-balance of the program by May 24th. We invite everybody to interact and upvote
+balance of the program by _May 24th_. We invite everybody to interact and upvote
 the issues. This will not be a guiding principle in the selection but it will
 give us an indication about community interest that will be part of our
 consideration.
 
 ## Oral sessions and demos
-20 minutes + 5 minutes of questions (3 per session)
+_20 minutes + 5 minutes of questions (3 per session)_
 ### 1. Open science in policies and regulations
 How are journals, granting agencies, and consortia working alongside the open science movement? This session will explore recently introduced policy changes from each of these groups, focusing on their motivations and the potential impact on the academic ecosystem.
 ### 2. From statistical to biological validity
@@ -25,7 +25,7 @@ In this session, the speakers will present recently developed open source method
 Although the web has transformed our commerce, communication, and media consumption; its impacts are not yet fully realized in neuroimaging research. This session will explore the potential of web applications for solving neuroscientific problems.
 
 ## Lightning talks
-5 minutes + 5 minutes of questions (6 per session)
+_5 minutes + 5 minutes of questions (6 per session)_
 ### 1. Neuroscience toolkit
 Although the field is still grappling with big questions of reproducibility and replicability, practical questions such as “how do I best plot by results”, or “how do I get my data in a format to use this new toolbox” still present the largest source of concern for many neuroscientists. This session will feature six lightning talks that discuss open source hands-on solutions for everyday real-world problems.
 ### 2. Multi-modal research

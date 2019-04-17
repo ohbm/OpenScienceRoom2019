@@ -1,12 +1,12 @@
 ---
 name: Talk Application
-about: Submit a application for a talk in the OHBM Open Science Room
+about: Submit an application for a talk in the OHBM Open Science Room
 
 ---
 
 **Title**
 
-**Presentor**
+**Presentor and Affiliation**
 
 **Collaborators**
 
@@ -14,6 +14,6 @@ about: Submit a application for a talk in the OHBM Open Science Room
 
 **Abstract (max. 200 words):**
 
-**Session**
+**Preferred Session**
 
-**Additional context**
+**Additional Context**

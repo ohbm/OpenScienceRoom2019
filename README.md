@@ -9,9 +9,8 @@ We invite applicants for the following sessions to write an application in the
 form of a *GitHub issue* in this repository. The application deadline is _May 19th_.
 We will make a selection based on quality, relevance, community interest and
 balance of the program by _May 24th_. We invite everybody to interact and upvote
-the issues. This will not be a guiding principle in the selection but it will
-give us an indication about community interest that will be part of our
-consideration.
+the issues. This will give us an indication about community interest that we will
+also take into consideration.
 
 ## Oral sessions and demos
 _20 minutes + 5 minutes of questions (3 per session)_
@@ -32,3 +31,7 @@ Although the field is still grappling with big questions of reproducibility and 
 Have you ever thought of combining MRI, genetics, EEG, tACS, fNIRS, or other modalities? This session will explore the possibilities of these combinations, the challenges of implementing them, and what new insights they could give us into the brain.
 ### 3. Collaborative research and team science
 From cross-lab collaborations to collaboration in big consortia, working collaboratively can provide a lot of benefits to science and to scientists. Yet it may also introduce new challenges in terms of communication, data analysis, and authorship. This session will explore the benefits of collaboration and ways to overcome the challenges.
+
+# Scheduled meetings in the Open Science Room
+The OSR will also be open to scheduled conversations and discussions about various topics of open science outside. You can submit requests via a GitHub issue in this repository. The calendar is 
+ available [here](https://calendar.google.com/calendar?cid=anJjNGh1dXFtODkyazVpbzk3OXF2YmM2N29AZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ)

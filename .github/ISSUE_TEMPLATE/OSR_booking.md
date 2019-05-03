@@ -1,7 +1,6 @@
 ---
 name: OSR booking
-about: Book the OSR for discussions and conversations about all sorts of Open
-Science topics.
+about: Book the OSR for discussions and conversations about all sorts of Open Science topics.
 
 ---
 

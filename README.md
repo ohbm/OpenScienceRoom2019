@@ -27,8 +27,9 @@ Although the web has transformed our commerce, communication, and media consumpt
 _5 minutes + 5 minutes of questions (6 per session)_
 ### 1. Neuroscience toolkit
 Although the field is still grappling with big questions of reproducibility and replicability, practical questions such as “how do I best plot by results”, or “how do I get my data in a format to use this new toolbox” still present the largest source of concern for many neuroscientists. This session will feature six lightning talks that discuss open source hands-on solutions for everyday real-world problems.
-### 2. Multi-modal research
-Have you ever thought of combining MRI, genetics, EEG, tACS, fNIRS, or other modalities? This session will explore the possibilities of these combinations, the challenges of implementing them, and what new insights they could give us into the brain.
+### 2. Machine learning in neuroscience
+[description pending]
+
 ### 3. Collaborative research and team science
 From cross-lab collaborations to collaboration in big consortia, working collaboratively can provide a lot of benefits to science and to scientists. Yet it may also introduce new challenges in terms of communication, data analysis, and authorship. This session will explore the benefits of collaboration and ways to overcome the challenges.
 

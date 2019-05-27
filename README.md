@@ -16,6 +16,10 @@ also take into consideration.
 _20 minutes + 5 minutes of questions (3 per session)_
 ### 1. Open science in policies and regulations
 How are journals, granting agencies, and consortia working alongside the open science movement? This session will explore recently introduced policy changes from each of these groups, focusing on their motivations and the potential impact on the academic ecosystem.
+* [Demo of OpenNeuro](/../../issues/7)
+*
+*
+
 ### 2. From statistical to biological validity
 The statistical significance, reproducibility, and replicability of results does not necessarily make them biologically meaningful. Current efforts towards reproducible and statistically reliable results, therefore, need to expand to also assess the biological validity of findings. This session will focus on efforts to address the biological validity of neuroimaging results, with particular emphasis on how this can be done in an open and transparent fashion.
 * [Individual Brain Charting](/../../issues/23)
@@ -48,10 +52,11 @@ Although the field is still grappling with big questions of reproducibility and 
 ### 2. Collaborative research and team science
 From cross-lab collaborations to collaboration in big consortia, working collaboratively can provide a lot of benefits to science and to scientists. Yet it may also introduce new challenges in terms of communication, data analysis, and authorship. This session will explore the benefits of collaboration and ways to overcome the challenges.
 * [Quantitative and histology MRI with the hMRI-toolbox](/../../issues/12)
-* [Demo of OpenNeuro](/../../issues/7)
 * [MNE-Python](/../../issues/15)
 * [JuBrain Anatomy Toolbox v3.0](/../../issues/2)
 * [Predictive Analytics Competition 2019 Reward Session](/../../issues/10)
+*
+*
 
 ### 3. Machine learning in neuroscience
 [description pending]

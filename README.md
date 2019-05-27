@@ -24,7 +24,7 @@ The statistical significance, reproducibility, and replicability of results does
 
 ### 3. Demo: New advances in open neuroimaging methods
 In this session, the speakers will present recently developed open source methods on a variety of topics. They will walk you through a short hands-on demo with their toolbox on real data in real-time.
-* [Towards DIPY 1.0](/../../issues/11)
+* [Towards DIPY 1.0](/../../issues/19)
 * [Statistical methods for studying population of connectomes](/../../issues/9)
 * [The developing Human Connectome Project automated functional processing framework for neonates](/../../issues/24)
 
@@ -32,7 +32,7 @@ In this session, the speakers will present recently developed open source method
 Although the web has transformed our commerce, communication, and media consumption; its impacts are not yet fully realized in neuroimaging research. This session will explore the potential of web applications for solving neuroscientific problems.
 * [Diffusion MRI with AFQ-Browser](/../../issues/26)
 * [Bioimage Suite Web](/../../issues/13)
-* [brainlife.io cloud processing and visualization](/../../issues/22)
+* [brainlife.io cloud processing and visualization](/../../issues/5)
 
 ## Lightning talks
 _5 minutes + 5 minutes of questions (6 per session)_
@@ -43,9 +43,17 @@ Although the field is still grappling with big questions of reproducibility and 
 * [BIDScoin: an easy toolkit to convert your data to BIDS](/../../issues/28)
 * [Neuroquery: mapping text to brain regions.](/../../issues/17)
 * [pyActigraphy, a toolbox for actigraphy data analysis](/../../issues/29)
-* [Efficiently editing sub-millimeter segmentations in 7 Tesla MRI](/../../issues/18)
+* [Efficiently editing sub-millimeter segmentations in 7 Tesla MRI](/../../issues/8)
 
-### 2. Machine learning in neuroscience
+### 2. Collaborative research and team science
+From cross-lab collaborations to collaboration in big consortia, working collaboratively can provide a lot of benefits to science and to scientists. Yet it may also introduce new challenges in terms of communication, data analysis, and authorship. This session will explore the benefits of collaboration and ways to overcome the challenges.
+* [Quantitative and histology MRI with the hMRI-toolbox](/../../issues/12)
+* [Demo of OpenNeuro](/../../issues/7)
+* [MNE-Python](/../../issues/15)
+* [JuBrain Anatomy Toolbox v3.0](/../../issues/2)
+* [Predictive Analytics Competition 2019 Reward Session](/../../issues/10)
+
+### 3. Machine learning in neuroscience
 [description pending]
 * [Kernel methods for machine learning applications](/../../issues/1)
 * [BrainIAK Demo: MVPA and Advanced fMRI Analysis](/../../issues/27)
@@ -53,14 +61,6 @@ Although the field is still grappling with big questions of reproducibility and 
 * [Nistats: the General Linear Model, fast and easy](/../../issues/14)
 * [fMRIDenoise: automated denoising strategies ](/../../issues/22)
 * [APACE - Accelerated Permutation Inference for ACE models](/../../issues/20)
-
-### 3. Collaborative research and team science
-From cross-lab collaborations to collaboration in big consortia, working collaboratively can provide a lot of benefits to science and to scientists. Yet it may also introduce new challenges in terms of communication, data analysis, and authorship. This session will explore the benefits of collaboration and ways to overcome the challenges.
-* [Quantitative and histology MRI with the hMRI-toolbox](/../../issues/12)
-* [Demo of OpenNeuro](/../../issues/7)
-* [MNE-Python](/../../issues/15)
-* [JuBrain Anatomy Toolbox v3.0](/../../issues/2)
-* [Predictive Analytics Competition 2019 Reward Session](/../../issues/10)
 
 # Scheduled meetings in the Open Science Room
 The OSR will also be open to scheduled conversations and discussions about various topics of open science outside. You can submit requests via a GitHub issue in this repository. The calendar is 

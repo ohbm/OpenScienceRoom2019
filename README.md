@@ -56,13 +56,16 @@ Although the field is still grappling with big questions of reproducibility and 
 
 ### 2. Machine learning in neuroscience
 #### Wednesday 12:45-13:45
-[description pending]
+Machine learning is on the rise everywhere, also in neuroscience. In this session, we will discuss how to perform novel statistical methods and machine learning methods on neuroscientific data with openly available software. 
 * [Kernel methods for machine learning applications](/../../issues/1)
 * [BrainIAK Demo: MVPA and Advanced fMRI Analysis](/../../issues/27)
 * [Nilearn: Machine learning for Neuro-Imaging in Python](/../../issues/16)
 * [Nistats: the General Linear Model, fast and easy](/../../issues/14)
-* [fMRIDenoise: automated denoising strategies ](/../../issues/22)
+* [fMRIDenoise: automated denoising strategies](/../../issues/22)
 * [APACE - Accelerated Permutation Inference for ACE models](/../../issues/20)
+
+*Note: this session replaces the 'multi-modal neuroscience' session, as there was a far greater demand for machine learning. This update was made after the program booklet had gone to press, so the booklet and the app have not been updated accordingly.*
+
 
 ### 3. Collaborative research and team science
 #### Thursday 12:45-13:45

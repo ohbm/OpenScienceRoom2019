@@ -15,24 +15,28 @@ also take into consideration.
 ## Oral sessions and demos 
 _20 minutes + 5 minutes of questions (3 per session)_
 ### 1. Open science in policies and regulations
+#### Monday 17:15-18:30
 How are journals, granting agencies, and consortia working alongside the open science movement? This session will explore recently introduced policy changes from each of these groups, focusing on their motivations and the potential impact on the academic ecosystem.
 * [Demo of OpenNeuro](/../../issues/7)
 *
 *
 
 ### 2. From statistical to biological validity
+#### Tuesday 10:30-11:45
 The statistical significance, reproducibility, and replicability of results does not necessarily make them biologically meaningful. Current efforts towards reproducible and statistically reliable results, therefore, need to expand to also assess the biological validity of findings. This session will focus on efforts to address the biological validity of neuroimaging results, with particular emphasis on how this can be done in an open and transparent fashion.
 * [Individual Brain Charting](/../../issues/23)
 * [ARIbrain - Valid circular inference for fMRI](/../../issues/21)
 * [PyBASC - bagging enhanced functional parcellations](/../../issues/31)
 
 ### 3. Demo: New advances in open neuroimaging methods
+#### Wednesday 10:30-11:45
 In this session, the speakers will present recently developed open source methods on a variety of topics. They will walk you through a short hands-on demo with their toolbox on real data in real-time.
 * [Towards DIPY 1.0](/../../issues/19)
 * [Statistical methods for studying population of connectomes](/../../issues/9)
 * [The developing Human Connectome Project automated functional processing framework for neonates](/../../issues/24)
 
 ### 4. Web-based solutions in neuroscience
+#### Thursday 10:30-11:45
 Although the web has transformed our commerce, communication, and media consumption; its impacts are not yet fully realized in neuroimaging research. This session will explore the potential of web applications for solving neuroscientific problems.
 * [Diffusion MRI with AFQ-Browser](/../../issues/26)
 * [Bioimage Suite Web](/../../issues/13)
@@ -41,6 +45,7 @@ Although the web has transformed our commerce, communication, and media consumpt
 ## Lightning talks
 _5 minutes + 5 minutes of questions (6 per session)_
 ### 1. Neuroscience toolkit
+#### Tuesday 13:45-14:45
 Although the field is still grappling with big questions of reproducibility and replicability, practical questions such as “how do I best plot by results”, or “how do I get my data in a format to use this new toolbox” still present the largest source of concern for many neuroscientists. This session will feature six lightning talks that discuss open source hands-on solutions for everyday real-world problems.
 * [knitr for neuroimagers](/../../issues/6)
 * [Voodoo-corrected effect sizes at local maxim](/../../issues/25)
@@ -50,6 +55,7 @@ Although the field is still grappling with big questions of reproducibility and 
 * [Efficiently editing sub-millimeter segmentations in 7 Tesla MRI](/../../issues/8)
 
 ### 2. Collaborative research and team science
+#### Wednesday 12:45-13:45
 From cross-lab collaborations to collaboration in big consortia, working collaboratively can provide a lot of benefits to science and to scientists. Yet it may also introduce new challenges in terms of communication, data analysis, and authorship. This session will explore the benefits of collaboration and ways to overcome the challenges.
 * [Quantitative and histology MRI with the hMRI-toolbox](/../../issues/12)
 * [MNE-Python](/../../issues/15)
@@ -59,6 +65,7 @@ From cross-lab collaborations to collaboration in big consortia, working collabo
 *
 
 ### 3. Machine learning in neuroscience
+#### Thursday 12:45-13:45
 [description pending]
 * [Kernel methods for machine learning applications](/../../issues/1)
 * [BrainIAK Demo: MVPA and Advanced fMRI Analysis](/../../issues/27)

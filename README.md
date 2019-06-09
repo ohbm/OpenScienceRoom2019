@@ -19,7 +19,7 @@ _20 minutes + 5 minutes of questions (3 per session)_
 How are journals, granting agencies, and consortia working alongside the open science movement? This session will explore recently introduced policy changes from each of these groups, focusing on their motivations and the potential impact on the academic ecosystem.
 * [OpenNeuro: Demo and its role in open science](/../../issues/7)
 * [Dissemination open data and tools: discoverability, licensing, citation, metrics and more](/../../issues/35)
-*
+* [ReproNim and the ReproPub](/../../issues/40)
 
 ### 2. From statistical to biological validity
 #### Tuesday 10:30-11:45

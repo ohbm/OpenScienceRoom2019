@@ -4,13 +4,13 @@
 
 ***The official Twitter hashtag set of the Open Science Room for 2019 is [#OHBM2019 #OSR](https://twitter.com/search?q=%20%23OSR%20%23OHBM2019). Use it to coordinate events, meetings and discussions!***
 
-# Talk application
-We invite applicants for the following sessions to write an application in the
-form of a *GitHub issue* in this repository. The application deadline is _May 19th_.
-We will make a selection based on quality, relevance, community interest and
-balance of the program by _May 24th_. We invite everybody to interact and upvote
-the issues. This will give us an indication about community interest that we will
-also take into consideration.
+# Schedule
+
+Scroll down to see details of the [Oral sessions and demos](#oral-sessions-and-demos), [Lightning talks](#lightning-talks) and [Scheduled meetings in the Open Science Room](#scheduled-meetings-in-the-open-science-room).
+
+[Click here](/OSR%20Schedule.pdf) to download a better resolution PDF of the schedule.
+
+![](OSR_schedule.png)
 
 ## Oral sessions and demos 
 _20 minutes + 5 minutes of questions (3 per session)_
@@ -75,15 +75,15 @@ From cross-lab collaborations to collaboration in big consortia, working collabo
 * [JuBrain Anatomy Toolbox v3.0](/../../issues/2)
 * [Clinica: software for clinical neuroimaging](/../../issues/33)
 * [Predictive Analytics Competition 2019 Reward Session](/../../issues/10)
-*
+* 
 
+## Scheduled meetings in the Open Science Room
 
-# Scheduled meetings in the Open Science Room
-The OSR will also be open to scheduled conversations and discussions about various topics of open science outside. You can submit requests via a GitHub issue in this repository. The calendar is 
- available [here](https://calendar.google.com/calendar?cid=anJjNGh1dXFtODkyazVpbzk3OXF2YmM2N29AZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ)
+The OSR will also be open to scheduled conversations and discussions about various topics of open science outside. You can submit requests via a GitHub issue in this repository.
+The calendar is available [here](https://calendar.google.com/calendar?cid=anJjNGh1dXFtODkyazVpbzk3OXF2YmM2N29AZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ)
  
  
-### License 
+## License 
 All material in this repository is CC-BY licensed unless explicitly stated otherwise.
 
 [![licensebuttons by](https://licensebuttons.net/l/by/3.0/88x31.png)](https://creativecommons.org/licenses/by/4.0)

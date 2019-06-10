@@ -10,7 +10,7 @@ Scroll down to see details of the [Oral sessions and demos](#oral-sessions-and-d
 
 [Click here](/OSR%20Schedule.pdf) to download a better resolution PDF of the schedule.
 
-![](OSR_schedule.png)
+![](OSR_Schedule.png)
 
 ## Oral sessions and demos
 _20 minutes + 5 minutes of questions (3 per session)_

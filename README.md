@@ -12,7 +12,7 @@ Scroll down to see details of the [Oral sessions and demos](#oral-sessions-and-d
 
 ![](OSR_schedule.png)
 
-## Oral sessions and demos 
+## Oral sessions and demos
 _20 minutes + 5 minutes of questions (3 per session)_
 ### 1. Open science in policies and regulations
 #### Monday 17:15-18:30
@@ -56,7 +56,7 @@ Although the field is still grappling with big questions of reproducibility and 
 
 ### 2. Machine learning in neuroscience
 #### Wednesday 12:45-13:45
-Machine learning is on the rise everywhere, also in neuroscience. In this session, we will discuss how to perform novel statistical methods and machine learning methods on neuroscientific data with openly available software. 
+Machine learning is on the rise everywhere, also in neuroscience. In this session, we will discuss how to perform novel statistical methods and machine learning methods on neuroscientific data with openly available software.
 * [Kernel methods for machine learning applications](/../../issues/1)
 * [BrainIAK Demo: MVPA and Advanced fMRI Analysis](/../../issues/27)
 * [Nilearn: Machine learning for Neuro-Imaging in Python](/../../issues/16)
@@ -75,15 +75,21 @@ From cross-lab collaborations to collaboration in big consortia, working collabo
 * [JuBrain Anatomy Toolbox v3.0](/../../issues/2)
 * [Clinica: software for clinical neuroimaging](/../../issues/33)
 * [Predictive Analytics Competition 2019 Reward Session](/../../issues/10)
-* 
+*
 
 ## Scheduled meetings in the Open Science Room
 
 The OSR will also be open to scheduled conversations and discussions about various topics of open science outside. You can submit requests via a GitHub issue in this repository.
 The calendar is available [here](https://calendar.google.com/calendar?cid=anJjNGh1dXFtODkyazVpbzk3OXF2YmM2N29AZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ)
- 
- 
-## License 
+
+* Mon 10:30: [BIDS for EEG and MEG](/../../issues/3)
+* Mon 11:30: [niQC SIG Meeting](/../../issues/30)
+* Mon 15:00: [BIDS community discussion](/../../4)
+* Tue 12:45: Meet the Open Science SIG (https://ossig.netlify.com)
+* Tue 17:00: [Theory in Network Neuroscience](/../../issues/11)
+* Wed 16:15: [Multi-Echo fMRI not-SIG Meeting](/../../issues/38)
+
+## License
 All material in this repository is CC-BY licensed unless explicitly stated otherwise.
 
 [![licensebuttons by](https://licensebuttons.net/l/by/3.0/88x31.png)](https://creativecommons.org/licenses/by/4.0)

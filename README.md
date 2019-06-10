@@ -82,7 +82,13 @@ From cross-lab collaborations to collaboration in big consortia, working collabo
 The OSR will also be open to scheduled conversations and discussions about various topics of open science outside. You can submit requests via a GitHub issue in this repository.
 The calendar is available [here](https://calendar.google.com/calendar?cid=anJjNGh1dXFtODkyazVpbzk3OXF2YmM2N29AZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ)
  
- 
+* Mon 10:30: BIDS for EEG and MEG
+* Mon 11:30: [niQC SIG Meeting](/../../issues/30)
+* Mon 15:00: [BIDS community discussion](/../../4)
+* Tue 12:45: Meet the Open Science SIG (https://ossig.netlify.com)
+* Tue 17:00: [Theory in Network Neuroscience](/../../issues/11)
+* Wed 16:15: [Multi-Echo fMRI not-SIG Meeting](/../../issues/38)
+
 ## License 
 All material in this repository is CC-BY licensed unless explicitly stated otherwise.
 

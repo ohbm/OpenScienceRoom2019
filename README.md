@@ -75,7 +75,7 @@ From cross-lab collaborations to collaboration in big consortia, working collabo
 * [JuBrain Anatomy Toolbox v3.0](/../../issues/2)
 * [Clinica: software for clinical neuroimaging](/../../issues/33)
 * [Predictive Analytics Competition 2019 Reward Session](/../../issues/10)
-* [NITRC](https://nitrc.org)
+* [NITRC](/../../issues/46)
 
 ## Scheduled meetings in the Open Science Room
 

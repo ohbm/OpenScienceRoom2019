@@ -87,6 +87,7 @@ The calendar is available [here](https://calendar.google.com/calendar?cid=anJjNG
 * Mon 15:00: [BIDS community discussion](/../../4)
 * Tue 12:45: Meet the Open Science SIG (https://ossig.netlify.com)
 * Tue 17:00: [Theory in Network Neuroscience](/../../issues/11)
+* Wed 12:00: [Why haven't I shared my data (yet)?](/../../issues/44)
 * Wed 16:15: [Multi-Echo fMRI not-SIG Meeting](/../../issues/38)
 
 ## Open Science, Open Discussion

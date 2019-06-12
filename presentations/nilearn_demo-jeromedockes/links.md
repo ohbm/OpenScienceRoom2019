@@ -7,3 +7,7 @@ notebook shown at the Open Science Room:
 - notebook: https://github.com/jeromedockes/nilearn_demos/blob/master/ohbm_demo_5_mn.ipynb
 - as python script: https://github.com/jeromedockes/nilearn_demos/blob/master/ohbm_demo_5_mn.py
 - rendered notebook as html: https://github.com/jeromedockes/nilearn_demos/blob/master/ohbm_demo_5_mn.html
+
+description of OSR talk:
+
+https://github.com/ohbm/OpenScienceRoom2019/issues/16

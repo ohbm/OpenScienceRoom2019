@@ -91,8 +91,12 @@ The calendar is available [here](https://calendar.google.com/calendar?cid=anJjNG
 * Wed 16:15: [Multi-Echo fMRI not-SIG Meeting](/../../issues/38)
 
 ## Open Science, Open Discussion
-#### Thursday 13:45-14:45
+#### Tuesday 13:45-14:45
 We want to have a discussion about the greatest challenges to practicing Open Science. What are your biggest roadblocks and hurdles? We would like to hear from you in an interactive discussion. We would especially like to hear from early career researchers and newcomers to open science to inform our plans for further training opportunities and activities.
+
+## Open Science Wrap-up: Gelato Party
+#### Thursday 13:45-14:45
+To wrap up, we're gonna find the nearest *gelateria* and the first 50 Gelati are on us! Ice Cream for Open Science!
 
 ## License
 All material in this repository is CC-BY licensed unless explicitly stated otherwise.
